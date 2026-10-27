@@ -2,7 +2,9 @@
 
 ## 1. Judul & Deskripsi
 DompetKu adalah aplikasi web statis satu halaman untuk mencatat pemasukan dan pengeluaran uang sehari-hari.
+
 Latar belakang masalah: pelajar sering tidak sadar uang jajannya habis ke mana karena tidak ada catatan yang sederhana dan cepat dipakai.
+
 Target pengguna: siswa SMA/SMK yang ingin memantau keuangan pribadi tanpa aplikasi yang rumit.
 
 ## 2. Teknologi yang Digunakan
