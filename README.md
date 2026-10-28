@@ -23,7 +23,7 @@ Target pengguna: siswa SMA/SMK yang ingin memantau keuangan pribadi tanpa aplika
   3. Menguji manual validasi form (keterangan berisi spasi dan angka tidak valid) serta alur hapus-transaksi dan penyimpanan localStorage sebelum dikumpulkan.
 
 ## 4. Panduan Penggunaan
-Tautan situs web aktif: 
+Tautan situs web aktif: https://le-maul.github.io/DompetKu/
 
 Menjalankan secara lokal:
 1. Buka file `index.html` di browser.
